@@ -1,18 +1,29 @@
 ![Banner | Erica Girges](./github-banner.png)
 
-### Hi there 👋
+## About Me 👋
+I'm Erica Girges and welcome to my Github! I'm a full-stack software engineer who loves coming up with innovative ideas for solving problems. When I'm not deep into a coding session, I love binge watching psychological thrillers and finding fun new foods to cook. 
 
-<!--
-**ericagirges/ericagirges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack 👩‍💻
+- Javascript
+- React
+- Redux
+- Context
+- Styled Components
+- Node
+- HTML
+- CSS
+- PostgreSQL
+- SQLite3
+- Vercel
+- Heroku
 
-Here are some ideas to get you started:
+## Interested in 💡
+- Frontend
+- Backend
+- Creative tech or projects! 🌼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Email: ericafiorenza@gmail.com
+Twitter: https://twitter.com/ericagirges
+LinkedIn: https://www.linkedin.com/in/ericagirges/
+
