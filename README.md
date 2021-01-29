@@ -1,3 +1,5 @@
+![Banner | Erica Girges](./github-banner.png)
+
 ### Hi there 👋
 
 <!--
