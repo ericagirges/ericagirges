@@ -1,10 +1,13 @@
 ![Banner | Erica Girges](./github-banner.png)
 
 ## About Me 👋
-I'm Erica Girges and welcome to my Github profile! I'm a full-stack software engineer who loves coming up with innovative ideas for solving problems. When I'm not deep into a coding session, I love binge watching psychological thrillers. 
+I'm Erica Girges and welcome to my Github profile! I'm a full-stack engineer and love helping others. With both of these skill sets and passions, I've found my happy place to be in Dev Advocacy. 😊 
+
+I also love exploring new things in tech and sharing my experiences with them. My shine comes through in making relatable and easy to understand tech content. 
 
 ## Tech Stack 👩‍💻
 - Javascript
+- Typescript
 - React
 - Next.JS
 - Redux
@@ -29,6 +32,5 @@ I'm Erica Girges and welcome to my Github profile! I'm a full-stack software eng
 
 ## Contact
 Email: ericafiorenza@gmail.com
-Twitter: https://twitter.com/ericagirges
 LinkedIn: https://www.linkedin.com/in/ericagirges/
 
